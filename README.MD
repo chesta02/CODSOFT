@@ -28,7 +28,7 @@ It allows users to manage their daily tasks with features like:
 <li>Mark task as completed</li>
 <li>Remove a task</li>
 <li>Display task status (Completed / Pending)</li>
-<ul>
+</ul>
 The project focuses on vectors, loops, functions, and basic data handling.</p>
 <h4>Files included:</h4>
 TO_DO_LIST.cpp
