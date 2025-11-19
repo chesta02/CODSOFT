@@ -32,6 +32,6 @@ It allows users to manage their daily tasks with features like:
 The project focuses on vectors, loops, functions, and basic data handling.</p>
 <h4>Files included:</h4>
 TO_DO_LIST.cpp
-h4>How to run:</h4>
+<h4>How to run:</h4>
 g++ TO_DO_LIST.cpp <br>
 ./a.exe
