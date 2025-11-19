@@ -18,7 +18,7 @@ SimpleCalculator.cpp
 <h4>How to run:</h4>
 g++ SimpleCalulator.cpp <br>
 ./a.exe
-<h2>PROJECT 2: TO DO LIST<H2>
+<h2>PROJECT 2: TO DO LIST</h2>
 <h4>Description:</h4>
 <p>A console-based To-Do List application written in C++.
 It allows users to manage their daily tasks with features like:
