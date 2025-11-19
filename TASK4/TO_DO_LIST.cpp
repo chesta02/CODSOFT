@@ -49,7 +49,7 @@ public:
 int main() {
     ToDoList myList;
     cout<<"Welcome to the To-Do List Application!" << endl;
-    cout<<"Available commands: add TASK, remove TASK, display TASK, clear TASKS, complete TASK, exit" << endl;
+    cout<<"Available commands: add , remove, display, clear, complete, exit" << endl;
     string command, task;
     while (true) {
         cout << "Enter command: ";
