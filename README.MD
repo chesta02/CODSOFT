@@ -18,3 +18,20 @@ SimpleCalculator.cpp
 <h4>How to run:</h4>
 g++ SimpleCalulator.cpp <br>
 ./a.exe
+<h2>PROJECT 2: TO DO LIST<H2>
+<h4>Description:</h4>
+<p>A console-based To-Do List application written in C++.
+It allows users to manage their daily tasks with features like:
+<ul>
+<li>Add a new task</li>
+<li>View all tasks</li>
+<li>Mark task as completed</li>
+<li>Remove a task</li>
+<li>Display task status (Completed / Pending)</li>
+<ul>
+The project focuses on vectors, loops, functions, and basic data handling.</p>
+<h4>Files included:</h4>
+TO_DO_LIST.cpp
+h4>How to run:</h4>
+g++ TO_DO_LIST.cpp <br>
+./a.exe
