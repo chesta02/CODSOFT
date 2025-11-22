@@ -35,3 +35,28 @@ TO_DO_LIST.cpp
 <h4>How to run:</h4>
 g++ TO_DO_LIST.cpp <br>
 ./a.exe
+<h2>PROJECT 3: TIC-TAC-TOE GAME</h2>
+<h4>Description:</h4>
+<p>A console-based Tic-Tac-Toe game that allows two players to play against each other on a 3×3 grid.</p>
+
+<p>The players take turns marking their symbol (<strong>X</strong> or <strong>O</strong>) on the board.  
+The program includes:</p>
+
+<ul>
+<li>Displaying the game board</li>
+<li>Accepting and validating player moves</li>
+<li>Checking for wins</li>
+<li>Checking for draws</li>
+<li>Switching between players</li>
+<li>Displaying the final game result</li>
+<li>Option to play again</li>
+</ul>
+
+<p>This project uses functions, condition checks, loops, arrays/vectors, and simple game logic.</p>
+
+<h4>Files included:</h4>
+TicTacToe.cpp
+
+<h4>How to run:</h4>
+g++ TicTacToe.cpp <br>
+./a.exe
